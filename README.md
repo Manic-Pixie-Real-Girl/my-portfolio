@@ -1,2 +1,3 @@
-# my-portfolio
-Serverless Portfolio
+# Deonn Hurst Professional Portfolio
+
+This is my Professional Portfolio. It will focus on Serverless Projects using AWS and ReactJS.
