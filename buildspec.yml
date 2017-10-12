@@ -5,6 +5,7 @@ phases:
     commands:
       - echo Nothing to do yet
 artifacts:
+  portfolio-build.zip
   s_3region:
     "us-east-1"
   files:
