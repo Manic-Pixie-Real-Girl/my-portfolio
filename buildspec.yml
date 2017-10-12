@@ -5,6 +5,8 @@ phases:
     commands:
       - echo Nothing to do yet
 artifacts:
+  s_3region:
+    "us-east-1"
   files:
     - index.html
     - favicon.ico
